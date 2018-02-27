@@ -1,0 +1,14 @@
+.vscode/
+venv/
+*.sas7bdat
+*.db
+*.xlsx
+*.PNG
+*.JPG
+literature/
+writing/
+*.csv
+*.xpt
+
+
+

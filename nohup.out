@@ -1,0 +1,18 @@
+  File "multicore_liqproxies.py", line 58
+    c.pwork(fn, 'daily', [[1], [3], [6], [12])
+                                             ^
+SyntaxError: invalid syntax
+Command exited with non-zero status 1
+0.01user 0.00system 0:00.01elapsed 94%CPU (0avgtext+0avgdata 8092maxresident)k
+0inputs+8outputs (0major+886minor)pagefaults 0swaps
+  File "multicore_liqproxies.py", line 58
+    c.pwork(fn, 'daily', [[1], [3], [6], [12])
+                                             ^
+SyntaxError: invalid syntax
+Command exited with non-zero status 1
+0.01user 0.00system 0:00.01elapsed 94%CPU (0avgtext+0avgdata 8000maxresident)k
+0inputs+8outputs (0major+884minor)pagefaults 0swaps
+249.58user 16.67system 4:24.23elapsed 100%CPU (0avgtext+0avgdata 2170708maxresident)k
+1978880inputs+7760032outputs (5409major+1844308minor)pagefaults 0swaps
+254.16user 18.76system 4:21.86elapsed 104%CPU (0avgtext+0avgdata 2170232maxresident)k
+2155216inputs+7760032outputs (929major+1843663minor)pagefaults 0swaps
